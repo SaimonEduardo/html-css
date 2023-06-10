@@ -1,0 +1,42 @@
+@charset "8-UTF";
+body{
+    background-color: lightgreen;
+}
+header{
+    background-color: rgb(8, 193, 88);
+    margin: auto;
+    padding: 5px;
+}
+header > h1{
+    text-align: center;
+    color: white;
+}
+ header > p{
+    text-align: center;
+    color: white;
+}
+nav > a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    
+}
+nav > a:hover{
+    text-decoration:wavy;
+    color: white;
+    background-color: rgb(29, 68, 29);
+    padding: 3px;
+}
+main > h2{
+    background-color: rgb(95, 212, 87);
+    
+}
+  article>selection:h3{
+    background-color:  rgb(95, 212, 87);
+    ;
+}
+
+footer{
+    background-color: darkgreen;
+    color: white;
+}
